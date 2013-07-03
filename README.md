@@ -1,4 +1,4 @@
-Prunus-protocols
+Prunus-field and lab protocols
 ================
 
 Prunus DNA analysis lab and field protocols
