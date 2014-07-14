@@ -39,8 +39,7 @@ This is a summary of our protocols for the genetic evaluation of seed dispersal 
 The study species is *Prunus mahaleb* (L.), a rosaceous tree that in SE Spanish populations is gynodioecious, with individuals producing hermaphrodite flowers and others with androsterile flowers, which behave as functional females. In the southern Iberian Peninsula this species flowers between mid-May and mid-June at high elevations (over 1300 m) and insects, mainly bees (Hymenoptera: Andrenidae, Apidae) and flies (Diptera: Calliphoridae, Syrphidae) act as pollen vectors. P. mahaleb produces fleshy fruits (drupaceous) (Fig. 1) with 1 seed per fruit. In late July fleshy fruits are produced and consumed by frugivorous animals that disperse the seeds until late August or early September.
 
 ---
-	
-	Figure 1. Flowers and ripe fruits of P. mahaleb.  
+	Figure 1. Flowers and ripe fruits of _P. mahaleb_.  
 	Flowers show the typical hermaphrodite tree flower (left) and  
 	the androsterile flower (right) of a female tree, with anthers  
 	unfunctional and shrunken.
